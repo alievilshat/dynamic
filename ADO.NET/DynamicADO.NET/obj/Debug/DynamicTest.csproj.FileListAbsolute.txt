@@ -1,0 +1,11 @@
+D:\Projects\Dynamic\DynamicTest\DynamicTest\bin\Debug\DynamicTest.exe.config
+D:\Projects\Dynamic\DynamicTest\DynamicTest\bin\Debug\DynamicTest.exe
+D:\Projects\Dynamic\DynamicTest\DynamicTest\bin\Debug\DynamicTest.pdb
+D:\Projects\Dynamic\DynamicTest\DynamicTest\bin\Debug\Npgsql.dll
+D:\Projects\Dynamic\DynamicTest\DynamicTest\bin\Debug\Mono.Security.dll
+D:\Projects\Dynamic\DynamicTest\DynamicTest\obj\Debug\DynamicTest.csprojResolveAssemblyReference.cache
+D:\Projects\Dynamic\DynamicTest\DynamicTest\obj\Debug\DynamicTest.exe
+D:\Projects\Dynamic\DynamicTest\DynamicTest\obj\Debug\DynamicTest.pdb
+D:\GitHub\dynamic\ADO.NET\DynamicTest\bin\Debug\DynamicTest.exe.config
+D:\GitHub\dynamic\ADO.NET\DynamicTest\obj\Debug\DynamicTest.exe
+D:\GitHub\dynamic\ADO.NET\DynamicTest\obj\Debug\DynamicTest.pdb

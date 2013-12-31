@@ -1,0 +1,3 @@
+D:\GitHub\dynamic\ADO.NET\DynamicADO.NET\bin\Debug\DynamicTest.exe.config
+D:\GitHub\dynamic\ADO.NET\DynamicADO.NET\obj\Debug\DynamicTest.exe
+D:\GitHub\dynamic\ADO.NET\DynamicADO.NET\obj\Debug\DynamicTest.pdb
