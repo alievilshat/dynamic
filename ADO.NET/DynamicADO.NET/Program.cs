@@ -11,7 +11,7 @@ namespace DynamicTest
 {
     class Program
     {
-        const string CONNECTION_STRING = "";
+        const string CONNECTION_STRING = "User ID=postgres;Password=;Host=;Port=5432;Database=";
 
         static void Main(string[] args)
         {
